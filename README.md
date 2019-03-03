@@ -1,4 +1,4 @@
-Chromo-Bot and it's code in Node
+#Chromo-Bot and it's code in Node
 
 This bot is made for the ChromoCraft server. Chromocraft is a small to medium size whitelisted minecraft server.
 
